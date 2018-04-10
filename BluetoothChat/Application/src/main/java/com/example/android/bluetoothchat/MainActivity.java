@@ -42,6 +42,7 @@ public class MainActivity extends SampleActivityBase {
 
     // Whether the Log Fragment is currently shown
     private boolean mLogShown;
+    private static BluetoothChatFragment fragment;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -50,10 +51,15 @@ public class MainActivity extends SampleActivityBase {
 
         if (savedInstanceState == null) {
             FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
-            BluetoothChatFragment fragment = new BluetoothChatFragment();
+            fragment = new BluetoothChatFragment();
             transaction.replace(R.id.sample_content_fragment, fragment);
             transaction.commit();
         }
+    }
+
+    public static void sendMessage(String string)
+    {
+        fragment.sendMessage(string);
     }
 
     @Override

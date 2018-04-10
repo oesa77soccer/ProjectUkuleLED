@@ -49,7 +49,7 @@
             android:id="@+id/button_test"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="ButtonTest" />
+            android:text="Chord Progression" />
 
     </LinearLayout>
 

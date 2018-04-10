@@ -53,6 +53,12 @@ public class ChordProgression extends SampleActivityBase {
         textView4.setText(chordArray[3]);
     }
 
+    public void playChords(View view) {
+        String chordString = "o";
+        MainActivity.sendMessage(chordString);
+    }
+
+
     public void clearAllChords(View view){
         Intent intent = new Intent();
     }

@@ -59,8 +59,8 @@
     <FrameLayout
         android:id="@+id/sample_content_fragment"
         android:layout_width="match_parent"
-        android:layout_height="300px"
-        android:layout_weight="2" />
+        android:layout_height="50dp"
+        android:layout_weight="0.87" />
 
     <Button
         android:id="@+id/middle"
