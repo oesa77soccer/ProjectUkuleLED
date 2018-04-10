@@ -1,7 +1,0 @@
-#Tue Mar 13 20:08:31 EDT 2018
-base.0=C\:\\Users\\Logan\\Documents\\Python Programs\\Ukulele Project\\BluetoothChat\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8f0e29a63d81667222f8c083cf38394284b3f7a9
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\Logan\\Documents\\Python Programs\\Ukulele Project\\BluetoothChat\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_10d0031e8b0fb72ec455c2d660b9e6bf09cdc36d\\classes.dex
-base.1=C\:\\Users\\Logan\\Documents\\Python Programs\\Ukulele Project\\BluetoothChat\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_10d0031e8b0fb72ec455c2d660b9e6bf09cdc36d
-file.0=C\:\\Users\\Logan\\Documents\\Python Programs\\Ukulele Project\\BluetoothChat\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8f0e29a63d81667222f8c083cf38394284b3f7a9\\classes.dex
