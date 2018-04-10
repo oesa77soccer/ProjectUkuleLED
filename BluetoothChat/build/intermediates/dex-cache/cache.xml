@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Logan\.android\build-cache\e3d0719331cd1089c9448d920f6de041d59e51c1\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Logan\Documents\Python Programs\Ukulele Project\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_545eaa7a6122d0fec8f417831df405298c5b74fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Logan\.android\build-cache\599f5e759f9a12fddff3680a17a3389d347bea03\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Logan\Documents\Python Programs\Ukulele Project\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_5807b5fb40c32f8678005cbcd6f4f1ea205e2ea3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Logan\.android\build-cache\a3d0e0d117ec69f5e42c8c86af8c8e6fd9378806\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
+        <dex dex="C:\Users\Logan\Documents\Python Programs\Ukulele Project\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7a7db2616fa461eea0999d3d52f6c7efc6519d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Logan\.android\build-cache\3ba33a0c60e81ac1ea35db20c52d837b6b12496b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Logan\Documents\Python Programs\Ukulele Project\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a33e5d2725be465f355b02334a26f80fc4ca6971\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Logan\.android\build-cache\3ba33a0c60e81ac1ea35db20c52d837b6b12496b\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Logan\Documents\Python Programs\Ukulele Project\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_ee7d397e32141868d0bc1fc41c5442fb85012145\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Logan\.android\build-cache\b79e5249c9b64897e60c68c7a1ab0d8d2feaabf5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Logan\Documents\Python Programs\Ukulele Project\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d20783066dd862975b49e02ea37d53b22e695e51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Logan\.android\build-cache\8f89d3026e36da8af1d9c31b646e178bf3cd3bc7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\Logan\Documents\Python Programs\Ukulele Project\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ac256ca1b449f6b4cb43fa6d5dba6fb8d50b0850\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Logan\Documents\Python Programs\Ukulele Project\BluetoothChat\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Logan\Documents\Python Programs\Ukulele Project\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8f0e29a63d81667222f8c083cf38394284b3f7a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Logan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Logan\Documents\Python Programs\Ukulele Project\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_f7de0fa5d843f54b00af9cf6cf8148fdff60f787\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Logan\.android\build-cache\9a039527b8f9e69418ecb8b7458a2f0792dd7a60\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Logan\Documents\Python Programs\Ukulele Project\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_863955206c9e940b0cb49a0d077e99e902359711\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Logan\.android\build-cache\e3d0719331cd1089c9448d920f6de041d59e51c1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Logan\Documents\Python Programs\Ukulele Project\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3f5fee130b43bbf14de8677309e5a79f3e426396\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Logan\Documents\Python Programs\Ukulele Project\BluetoothChat\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3ec7e5e9ca0881113bb3786718de5ae72577aa61">
+        <dex dex="C:\Users\Logan\Documents\Python Programs\Ukulele Project\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_10d0031e8b0fb72ec455c2d660b9e6bf09cdc36d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Logan\Documents\BluetoothChat_backup\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Logan\Documents\BluetoothChat_backup\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8e4f0b4ed2ac219b69a0739f577880e5513dfaa4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Logan\Documents\BluetoothChat_backup\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a0c09c0882cc57d84579b7414ba283b7251259da">
+        <dex dex="C:\Users\Logan\Documents\BluetoothChat_backup\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_384e2be92e5dc1572dd11a25ce7c61ccd62a999a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Logan\.android\build-cache\086d6ee2ac5cc87764661a1829c886f5eb900c06\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Logan\Documents\Python Programs\Ukulele Project\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ecc30f0e8b35e182b086bd7a613ef1d7557e86a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Logan\.android\build-cache\f27c26d9585e890caf8e06cc83c6e3b01e054755\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Logan\Documents\Python Programs\Ukulele Project\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d910e654d746622579a72a2f40102a945bf43ece\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Logan\.android\build-cache\1b529109c5a946fb0d66b720f0b388827d8028b9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Logan\Documents\Python Programs\Ukulele Project\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0d4fcb98d560f9aefd08929f0266fc15a3a34cc2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Logan\.android\build-cache\81e407ebd1ad80429e81350a663ae4cb2ad774e8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Logan\Documents\Python Programs\Ukulele Project\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_75f09711d2bcd7c3d962df7fd3ef539addd5d793\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Logan\.android\build-cache\f27c26d9585e890caf8e06cc83c6e3b01e054755\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Logan\Documents\Python Programs\Ukulele Project\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_fa97dd5c8000dfe40b3408765cbb2bede960da2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Logan\.android\build-cache\9a039527b8f9e69418ecb8b7458a2f0792dd7a60\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Logan\Documents\Python Programs\Ukulele Project\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_02511b904f575280dba14531ad3647bcdc0a73f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Logan\.android\build-cache\599f5e759f9a12fddff3680a17a3389d347bea03\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Logan\Documents\Python Programs\Ukulele Project\BluetoothChat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1a70c80cefdf5b5ff4620e926fa465aef52a3d34\classes.dex" />
+    </item>
+
+</items>
