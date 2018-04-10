@@ -2,11 +2,12 @@ package com.example.android.bluetoothchat;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.TextView;
 
-public class ChordProgression extends AppCompatActivity {
+import com.example.android.common.activities.SampleActivityBase;
+
+public class ChordProgression extends SampleActivityBase {
     static String[] chordArray = new String[4];
     TextView textView1;
     TextView textView2;

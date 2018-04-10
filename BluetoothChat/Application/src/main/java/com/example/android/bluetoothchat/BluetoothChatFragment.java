@@ -60,6 +60,7 @@ public class BluetoothChatFragment extends Fragment {
     private ListView mConversationView;
     private EditText mOutEditText;
     private Button mSendButton;
+    private Button mMyTestButton;
 
     /**
      * Name of the connected device
@@ -151,6 +152,9 @@ public class BluetoothChatFragment extends Fragment {
         mConversationView = (ListView) view.findViewById(R.id.in);
         mOutEditText = (EditText) view.findViewById(R.id.edit_text_out);
         mSendButton = (Button) view.findViewById(R.id.button_send);
+        mMyTestButton = (Button) view.findViewById(R.id.button_test);
+        Log.d(TAG, "button setup: ");
+        Log.d(TAG, mMyTestButton.toString());
     }
 
     /**
@@ -176,6 +180,16 @@ public class BluetoothChatFragment extends Fragment {
                     TextView textView = (TextView) view.findViewById(R.id.edit_text_out);
                     String message = textView.getText().toString();
                     sendMessage(message);
+                }
+            }
+        });
+
+        mMyTestButton.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                // Send a message using content of the edit text widget
+                View view = getView();
+                if (null != view) {
+                    myTest(view);
                 }
             }
         });
@@ -398,5 +412,9 @@ public class BluetoothChatFragment extends Fragment {
         }
         return false;
     }
-
+    public void myTest(View view) {
+        // Do something in response to button
+        Intent intent = new Intent(getActivity(), ChordProgression.class);
+        startActivity(intent);
+    }
 }
