@@ -13,6 +13,8 @@ import android.widget.CompoundButton;
 import android.widget.Switch;
 import android.widget.TextView;
 
+import com.example.android.common.activities.SampleActivityBase;
+
 class Chord
 {
     public String chord;
@@ -24,7 +26,7 @@ class Chord
     }
 }
 
-public class CustomChord extends AppCompatActivity {
+public class CustomChord extends SampleActivityBase {
     static Chord[] chordArray = {new Chord(), new Chord(), new Chord(), new Chord()};
     String cNum = "chord0";
     int chordID;

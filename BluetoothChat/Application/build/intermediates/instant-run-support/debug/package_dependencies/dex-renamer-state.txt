@@ -1,4 +1,4 @@
-#Tue Apr 10 12:07:42 EDT 2018
+#Tue Apr 10 13:22:27 EDT 2018
 file.2=C\:\\Users\\Logan\\Documents\\MyGit\\ProjectUkuleLED\\BluetoothChat\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_253847108b5661990d7189af1ab758ceac688ba9\\classes.dex
 base.2=C\:\\Users\\Logan\\Documents\\MyGit\\ProjectUkuleLED\\BluetoothChat\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_253847108b5661990d7189af1ab758ceac688ba9
 file.1=C\:\\Users\\Logan\\Documents\\MyGit\\ProjectUkuleLED\\BluetoothChat\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-25.0.1_863955206c9e940b0cb49a0d077e99e902359711\\classes.dex

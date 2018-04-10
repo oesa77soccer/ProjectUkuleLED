@@ -5,12 +5,13 @@ package com.example.android.bluetoothchat;
  */
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
 
-public class ChordNoteList extends AppCompatActivity {
+import com.example.android.common.activities.SampleActivityBase;
+
+public class ChordNoteList extends SampleActivityBase {
 
     String[] nameArray = {"A","A#","B","C","C#","D","D#","E","F","F#","G","G#"};
     ListView listView;
