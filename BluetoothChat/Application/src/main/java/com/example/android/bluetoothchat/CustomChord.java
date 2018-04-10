@@ -122,6 +122,7 @@ public class CustomChord extends SampleActivityBase {
         // Do something in response to button
         Intent intent = new Intent(this, ChordNoteList.class);
         intent.putExtra("chordNum", cNum);
+        intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
         startActivity(intent);
     }
     public void placeChordNameInChordProgression(View view) {
@@ -155,6 +156,7 @@ public class CustomChord extends SampleActivityBase {
         if(cNum.compareTo("chord4") == 0) {
             intent.putExtra("chord4", savedExtra);
         }
+        intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
         startActivity(intent);
     }
 }

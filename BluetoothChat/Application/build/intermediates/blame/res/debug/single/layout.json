@@ -12,12 +12,12 @@
         "source": "C:\\Users\\Logan\\.android\\build-cache\\81e407ebd1ad80429e81350a663ae4cb2ad774e8\\output\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Logan\\Documents\\MyGit\\ProjectUkuleLED\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\Users\\Logan\\.android\\build-cache\\81e407ebd1ad80429e81350a663ae4cb2ad774e8\\output\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
         "merged": "C:\\Users\\Logan\\Documents\\MyGit\\ProjectUkuleLED\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
         "source": "C:\\Users\\Logan\\.android\\build-cache\\81e407ebd1ad80429e81350a663ae4cb2ad774e8\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Logan\\Documents\\MyGit\\ProjectUkuleLED\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Logan\\.android\\build-cache\\81e407ebd1ad80429e81350a663ae4cb2ad774e8\\output\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
         "merged": "C:\\Users\\Logan\\Documents\\MyGit\\ProjectUkuleLED\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",

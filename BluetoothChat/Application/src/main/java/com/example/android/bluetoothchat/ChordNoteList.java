@@ -36,6 +36,7 @@ public class ChordNoteList extends SampleActivityBase {
                 String message = nameArray[position];
                 intent.putExtra("note", message);
                 intent.putExtra("chordNum", cNum);
+                intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
                 startActivity(intent);
             }
         });
