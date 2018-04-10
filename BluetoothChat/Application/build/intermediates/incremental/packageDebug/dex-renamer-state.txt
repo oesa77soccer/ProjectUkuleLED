@@ -1,0 +1,7 @@
+#Tue Apr 10 12:07:43 EDT 2018
+base.0=C\:\\Users\\Logan\\Documents\\MyGit\\ProjectUkuleLED\\BluetoothChat\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_27ceef9fd9bb200f48213b41dfe14075c39adef9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Logan\\Documents\\MyGit\\ProjectUkuleLED\\BluetoothChat\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_67c283587f960eea2360e23ad3e225f4a6551908\\classes.dex
+base.1=C\:\\Users\\Logan\\Documents\\MyGit\\ProjectUkuleLED\\BluetoothChat\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_67c283587f960eea2360e23ad3e225f4a6551908
+file.0=C\:\\Users\\Logan\\Documents\\MyGit\\ProjectUkuleLED\\BluetoothChat\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_27ceef9fd9bb200f48213b41dfe14075c39adef9\\classes.dex
