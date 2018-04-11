@@ -54,13 +54,15 @@ public class ChordProgression extends SampleActivityBase {
     }
 
     public void playChords(View view) {
-        String chordString = "o";
-        MainActivity.sendMessage(chordString);
+        if (chordArray[0] != null || chordArray[1] != null || chordArray[2] != null || chordArray[3] != null) {
+            String stringToParse = chordArray[0] + " " + chordArray[1] + " " + chordArray[2] + " " + chordArray[3];
+            MainActivity.sendMessage(stringToParse);
+        }
     }
-
 
     public void clearAllChords(View view){
         Intent intent = new Intent();
+        startActivity(intent);
     }
 
     public void setCustomChord1(View view) {

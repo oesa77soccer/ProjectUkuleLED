@@ -6,29 +6,26 @@
     density="xxxhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1523388642364"
+    timestamp="1523411332316"
     token="2022334550939790708"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="1584" />
+        duration="1007" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="106" />
+        duration="32" />
     <task
         name="verifier"
-        duration="39" />
+        duration="7" />
 
     <artifact
         location="C:\Users\Logan\Documents\MyGit\ProjectUkuleLED\BluetoothChat\Application\build\intermediates\split-apk\debug\slices\slice_2.apk"
         type="SPLIT" />
-    <artifact
-        location="C:\Users\Logan\Documents\MyGit\ProjectUkuleLED\BluetoothChat\Application\build\outputs\apk\Application-debug.apk"
-        type="SPLIT_MAIN" />
     <artifact
         location="C:\Users\Logan\Documents\MyGit\ProjectUkuleLED\BluetoothChat\Application\build\intermediates\split-apk\debug\slices\slice_4.apk"
         type="SPLIT" />
@@ -59,17 +56,17 @@
     <artifact
         location="C:\Users\Logan\Documents\MyGit\ProjectUkuleLED\BluetoothChat\Application\build\intermediates\split-apk\debug\slices\slice_1.apk"
         type="SPLIT" />
+    <artifact
+        location="C:\Users\Logan\Documents\MyGit\ProjectUkuleLED\BluetoothChat\Application\build\outputs\apk\Application-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1523388642364"
+        timestamp="1523411332316"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Logan\Documents\MyGit\ProjectUkuleLED\BluetoothChat\Application\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
-        <artifact
-            location="C:\Users\Logan\Documents\MyGit\ProjectUkuleLED\BluetoothChat\Application\build\outputs\apk\Application-debug.apk"
-            type="SPLIT_MAIN" />
         <artifact
             location="C:\Users\Logan\Documents\MyGit\ProjectUkuleLED\BluetoothChat\Application\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
@@ -100,6 +97,9 @@
         <artifact
             location="C:\Users\Logan\Documents\MyGit\ProjectUkuleLED\BluetoothChat\Application\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
+        <artifact
+            location="C:\Users\Logan\Documents\MyGit\ProjectUkuleLED\BluetoothChat\Application\build\outputs\apk\Application-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

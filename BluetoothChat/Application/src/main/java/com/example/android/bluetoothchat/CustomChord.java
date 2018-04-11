@@ -140,8 +140,8 @@ public class CustomChord extends SampleActivityBase {
 
         chordArray[chordID].chord = savedExtra;
         if (chordArray[chordID].minor) savedExtra += "m";
-        if (chordArray[chordID].sus) savedExtra += " sus";
-        if (chordArray[chordID].aug) savedExtra += " aug";
+        if (chordArray[chordID].sus) savedExtra += "sus";
+        if (chordArray[chordID].aug) savedExtra += "aug";
         if (chordArray[chordID].sev) savedExtra += "7";
 
         if(cNum.compareTo("chord1") == 0) {
